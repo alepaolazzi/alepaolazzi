@@ -2,7 +2,6 @@
 
 - 🌱 Estou aprendendo atualmente JavaScript e Java;
 - 🤝🏼 Procuro colaborar em projetos inovadores;
-- 😄 Pronomes: ele/dele
 ##
 <div align="center">
   <a href="https://github.com/alepaolazzi">
