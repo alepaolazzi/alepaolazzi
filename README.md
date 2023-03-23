@@ -5,7 +5,9 @@
 ##
 <div align="center">
   <a href="https://github.com/alepaolazzi">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alepaolazzi&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alepaolazzi&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  </a>
+  <a href="https://git.io/streak-stats"><img height="140" src="https://streak-stats.demolab.com?user=alepaolazzi&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"/></a>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Ale-JS" height='30' width'40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
